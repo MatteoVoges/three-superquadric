@@ -1,0 +1,25 @@
+{
+  "name": "three-superquadric",
+  "version": "1.0.0",
+  "description": "todo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatteoVoges/three-superquadric.git"
+  },
+  "keywords": [
+    "superquadric",
+    "three.js",
+    "parametric",
+    "geometry"
+  ],
+  "author": "Matteo Voges",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MatteoVoges/three-superquadric/issues"
+  },
+  "homepage": "https://github.com/MatteoVoges/three-superquadric#readme"
+}
